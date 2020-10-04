@@ -1,5 +1,6 @@
 # lillianparis.github.io
 Week 2
+<img width="1492" alt="Screen Shot 2020-10-04 at 12 15 07 PM" src="https://user-images.githubusercontent.com/62733242/95025000-6575fb00-063b-11eb-8c3a-f4b7c14c1c44.png">
 The main objectives for this assignment is to create a portfolio, using Bootstrap.
 The code for the portfolio is to consist of a responsive layout including, a nav
 bar and responsive images. The use of media queries discussed in week two should
