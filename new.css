@@ -19,3 +19,9 @@ background-color: rgb(117, 56, 26);
 #colorname {
     background-color: rgb(223, 144, 98);
 }
+
+.nav-link {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+}
